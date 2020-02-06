@@ -2,27 +2,17 @@
   "store.home": { 
     "blocks": [
       "rich-text",
-<<<<<<< HEAD
-      "info-card#button-right",
-=======
       "info-card#button-rigth",
->>>>>>> aa3cf3ff6279c6b833ae45041b772b106185d33b
       "info-card#button-left"
     ]
   },
-
   "rich-text": {
     "props": {
       "text": "**Hello World!**",
       "textPosition": "RIGHT"
     }
   },
-
-<<<<<<< HEAD
-  "info-card#button-right": {
-=======
   "info-card#button-rigth": {
->>>>>>> aa3cf3ff6279c6b833ae45041b772b106185d33b
     "props": {
     "isFullModeStyle": false,
     "textPosition": "right",
@@ -35,7 +25,6 @@
     "textAlignment": "center"
     }
   },
-
   "info-card#button-left": {
     "props": {
     "isFullModeStyle": false,
@@ -45,11 +34,7 @@
     "subhead": "Give your kitchen a cool style adding warm metallic finishes.<br>Available until January 2020.",
     "callToActionMode": "link",
     "callToActionText": "Go to Collection",
-<<<<<<< HEAD
     "callToActionUrl": "/sale/d", 
-=======
-    "callToActionUrl": "/sale/d",
->>>>>>> aa3cf3ff6279c6b833ae45041b772b106185d33b
     "textAlignment": "center"
     }
   }
